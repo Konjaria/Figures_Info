@@ -1,0 +1,16 @@
+triangle     12 1 12  
+TRIANGLE     12 12 15 
+Triangle     3  4  5
+Rectangle    12 12
+rectangle    12 23
+RECTANGLE    -12 24
+Square        2  
+SQUARE       -2  
+square       12 
+Paralelogram 12 23 60
+PARALELOGRAM 12 12  120
+paralelogram 12 23  90
+Circle       13
+Circle       12
+circle       6.e3
+CIRCLE       6.e5
